@@ -112,3 +112,8 @@ for epoch in range(EPOCH):
 
 np.savetxt("r2_score.txt", r2_list)
 np.savetxt("r2_score_test.txt", r2_list_test)
+
+
+
+
+
