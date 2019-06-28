@@ -17,13 +17,13 @@ Top
 │   dlmodel.py    定义了项目中使用的深度学习模型 
 │   model_train.py  深度学习模型训练过程定义脚本
 │   r2_plot.py      r2分数曲线绘制脚本   
-│   add_param.py   提取文本信息中的关键字作为新的参数
 │   crawer.py      爬虫   
 │
 └─── preprocess
 │   │   preprocessing.ipynb  预处理过程文件
 │   │   preprocess.py   预处理方法定义
 │   │   depart.py      对文本分词，转化为向量，同时依据相关性获取add_param.py中所需的关键字
+│   │   add_param.py   提取文本信息中的关键字作为新的参数
 │   │
 │
 └─── data
